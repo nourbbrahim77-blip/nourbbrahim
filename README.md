@@ -7,4 +7,4 @@ About Me in 30 Secs 🚀
 💡 Passionate about technology and building things from scratch
 🎨 Currently learning HTML & CSS
 📚 Love exploring new concepts and improving my skills every day
-✨ Enjoy creating simple web pages and experimenting with designs
+✨ Enjoy creating simple web pages and experimenting with designs.
